@@ -492,6 +492,34 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   top: 50%;
   opacity: 1;
 }
+.centered {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+}
+
+.centered h1 {
+  font-size: 50px;
+  font-weight: 500;
+}
+
+.promo {
+  background-color: rgb(8, 3, 38);
+}
+
+.ezviz {
+    position: relative;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    overflow: hidden;
+    height: auto;
+    max-width: 695px;
+    width: 100%;
+    margin-bottom: 24px;
+  }
+
 .prod-txtx h3 {
   font-size: 25px;
   font-weight: 700;
