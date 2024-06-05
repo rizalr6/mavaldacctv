@@ -57,7 +57,7 @@ export const Banner = () => {
                     <p>JANGAN RAGU LAGI, JAGA TEMPAT ANDA TETAP AMAN, KONDUSIF DAN TERPANTAU, KONSULTASI VIA WHATSAPP MUDAH, GRATIS DENGAN SALES TERPERCAYA DARI MAVALDA CCTV DIJAMIN FAST RESPON, AMANAH DAN BERPENGALAMAN</p>
                     <span className="tagline">PROMO KHUSUS HARI INI</span>
                     <h3 className="date">CEK PROMO SEKARANG!</h3>
-                    <a className="removeline" href="https://wa.me/+6281333160256?text=Halo%20Mavalda%20CCTV%20Tolong%20Pricelist%20Paket%20CCTVnya%20Ya" target="_blank"><button>Hubungi Kami<ArrowRightCircle size={25} /></button></a>
+                    <a className="removeline" href="https://wa.me/+6282234174425?text=Halo%20Mavalda%20CCTV%20Tolong%20Pricelist%20Paket%20CCTVnya%20Ya" target="_blank"><button>Hubungi Kami<ArrowRightCircle size={25} /></button></a>
                     </div>}
                     </TrackVisibility>
                     </Col>

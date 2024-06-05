@@ -47,7 +47,7 @@ export const About = () => {
                         <img src={Toko} />
                         <p>Pemasangan di Toko</p> 
                     </Col>
-                    <a className="offer" href="https://wa.me/+6281333160256?text=Halo%20Mavalda%20CCTV%20Tolong%20Pricelist%20Paket%20CCTVnya%20Ya" target="_blank"><button><FaWhatsapp className="iconcall"/>  Cek Penawaran</button></a>
+                    <a className="offer" href="https://wa.me/+6282234174425?text=Halo%20Mavalda%20CCTV%20Tolong%20Pricelist%20Paket%20CCTVnya%20Ya" target="_blank"><button><FaWhatsapp className="iconcall"/>  Cek Penawaran</button></a>
                     <h1>Mengapa Harus Pasang CCTV Melalui Kami?</h1>
                     <Col xs={8} md={3} xl={3} className="why">
                         <h4>Jaminan Harga Terbaik</h4>
@@ -68,7 +68,7 @@ export const About = () => {
                         Garansi ada Kerusakan, Garansi Meliputi Camera, DVR, dan Hardisk Masa Garansi 2 Tahun (Hikvision)</p>
                     </Col>
                     <h1>Jaga Keamanan Asset Anda Pasang Sekarang Juga!</h1>
-                    <a className="offer" href="https://wa.me/+6281333160256?text=Halo%20Mavalda%20CCTV%20Tolong%20Pricelist%20Paket%20CCTVnya%20Ya" target="_blank"><button><FaWhatsapp className="iconcall"/>  Konsultasi WA</button></a>
+                    <a className="offer" href="https://wa.me/+6282234174425?text=Halo%20Mavalda%20CCTV%20Tolong%20Pricelist%20Paket%20CCTVnya%20Ya" target="_blank"><button><FaWhatsapp className="iconcall"/>  Konsultasi WA</button></a>
                     <Col xs={12} md={12} xl={12}> 
                     <img className="client" src={Client} />
                     </Col>
