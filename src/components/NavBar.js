@@ -48,7 +48,7 @@ return (
                 </Nav>
                 <span className="navbar-text">
                     <div className="social-icon">
-                        <a href="https://wa.me/+6282234174425?text=Halo%20Mavalda%20CCTV%20Tolong%20Pricelist%20Paket%20CCTVnya%20Ya" target="_blank"><img src={navIcon1} alt="" /></a>
+                        <a href="https://wa.me/+6282234174425?text=Halo%20MavaldaCCTV%20Area%20Kalimantan%20Tolong%20Pricelist%20Paket%20CCTV%20Ya" target="_blank"><img src={navIcon1} alt="" /></a>
                         <a href="https://web.facebook.com/profile.php?id=100093336092191" target="_blank"><img src={navIcon2} alt="" /></a>
                         <a href="https://www.instagram.com/mavalda.soekarindo.group/" target="_blank"><img src={navIcon3} alt="" /></a>
                     </div>
