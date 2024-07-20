@@ -46,7 +46,7 @@ return (
                     kualitas terbaik dengan jaminan<br></br> 
                     harga termurah, fast respon dengan<br></br> 
                     teknisi berpengalaman berdiri sejak 
-                    Tahun 2018
+                    Tahun 2016
                     </p>
                     <Carousel responsive={responsive} infinite={true} className="skills-slider">
                         <div className="item">
