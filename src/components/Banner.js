@@ -17,7 +17,7 @@ export const Banner = () => {
     <section className="banner" id="home">
     <div>
     <FloatingWhatsApp
-        phoneNumber="628223417442"
+        phoneNumber="6282234174425"
         // phoneNumber="6285332968729" untuk test
         accountName="CCTVKU BALIKPAPAN"
         placeholder="Halo CCTVKU Balikpapan"
