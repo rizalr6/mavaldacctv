@@ -8,12 +8,29 @@ import img2 from '../assets/img/hilook.jpg';
 import img3 from '../assets/img/dahua.jpg';
 import img4 from '../assets/img/ezvizpng.png';
 import { FaWhatsapp } from 'react-icons/fa';
+import { FloatingWhatsApp } from 'react-floating-whatsapp';
+import avatar from '../assets/img/logomsg.png';
 
 export const Banner = () => {
 
   return (
     <section className="banner" id="home">
     <div>
+    <FloatingWhatsApp
+        phoneNumber="628223417442"
+        // phoneNumber="6285332968729" untuk test
+        accountName="CCTVKU BALIKPAPAN"
+        placeholder="Halo CCTVKU Balikpapan"
+        avatar={avatar}
+        statusMessage="Online"
+        chatMessage="Kami CCTVKU Balikpapan, Ingin Paket CCTV Berapa Kamera?"
+          allowEsc="true"
+          allowClickAway="true"
+        darkmode="false"
+        notification
+        chatboxHeight={400}
+        notificationSound
+      />
     <Carousel>
     <Carousel.Item>
       <img
