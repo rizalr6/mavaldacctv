@@ -39,7 +39,7 @@ return (
                 <Col xs={12} md={12} xl={12}>
                 <div className="skills-bx">
                     <h1>
-                        Mavalda Soekarindo Group
+                        Soekarindo Group
                     </h1>
                     <p>
                     Kami menyediakan CCTV dengan<br></br>
